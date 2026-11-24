@@ -1,13 +1,11 @@
 # OST_POE
 this is my OST POE
 
-
-
-git init
-git add .
-git commit -m "success"
-git remote add origin https://github.com/NikitaAdsule09/OST_POE.git
-git -u origin main
+<h3>git init</h3>
+<h3>git add .</h3>
+<h3>git commit -m "success"</h3>
+<h3>git remote add origin https://github.com/NikitaAdsule09/OST_POE@.git</h3>
+<h3>git -u origin main</h3>
 
 
 or u can direct add file 
