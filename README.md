@@ -8,4 +8,5 @@ this is my OST POE
 <h3>git -u origin main</h3>
 
 
-or u can direct add file 
+or u can direct add file by Upload option
+
